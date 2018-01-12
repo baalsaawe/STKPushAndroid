@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12ebb033fbc7c58f216d3cac013cdb00/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b0895085f5be25a204461dd9da251ee/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62ea38bcdf45582a26f4cce0f97eb3ea/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches
 MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c4c63da82bb448a653d7bb5119fa34bc/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/47bdbf3a1d400dbce4a7fec78a41d87f/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed2eb89ed9f900fb50b2b8e1e21dbe4c/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml
 		INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml
-		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml
-		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:1-26:12
 		INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12ebb033fbc7c58f216d3cac013cdb00/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12ebb033fbc7c58f216d3cac013cdb00/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b0895085f5be25a204461dd9da251ee/AndroidManifest.xml:9:5-20
@@ -69,7 +69,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transfor
 	android:theme
 		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.symatechlabs.stkpush.MainActivity
-ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:name
 		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
@@ -83,17 +83,17 @@ ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/sr
 	android:name
 		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:16:27-74
 uses-permission#android.permission.INTERNET
-ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:21:5-67
+ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:22:5-67
 	android:name
-		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:21:22-64
+		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:22:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:22:5-79
+ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:22:22-76
+		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:23:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:23:5-75
+ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:24:5-75
 	android:name
-		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:23:22-73
+		ADDED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml:24:22-73
 uses-sdk
 INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/src/main/AndroidManifest.xml

@@ -49,8 +49,7 @@ public class MainActivity extends AppCompatActivity {
     public ConnectivityManager conMgr;
     public NetworkInfo netInfo;
     int PERMISSION_ALL = 1;
-    private static final String BASE_URL = "http://IP ADDRESS OR WEB ADDRESS /stkpush/sendSTKPush.php";
-
+    private static final String BASE_URL = "http://192.81.213.230/stkpush/sendSTKPush.php";
     private OkHttpClient client = new OkHttpClient();
 
 
@@ -194,7 +193,7 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                 } catch (JSONException e) {
-                    e.printStackTrace();
+                    Toast.makeText(MainActivity.this, "ERROR", Toast.LENGTH_LONG).show();
                 }
             } else {
 
