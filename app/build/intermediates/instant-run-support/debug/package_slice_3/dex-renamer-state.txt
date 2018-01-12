@@ -1,0 +1,4 @@
+#Fri Jan 12 22:33:57 EAT 2018
+base.0=/home/symatech/Documents/Android/AndroidStudioProjects/STKPush/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

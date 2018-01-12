@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="com.symatechlabs.stkpush.MainActivity">
+
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/editext"
+        android:hint="Enter Phone Number 0713946XXX"
+        android:inputType="number"
+        android:maxLength="10"
+        android:paddingLeft="3dp" />
+
+
+
+    <EditText
+        android:id="@+id/amount"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/editext"
+        android:hint="Enter Amount"
+        android:inputType="number"
+        android:paddingLeft="3dp" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="#68b245"
+        android:text="SUBMIT"
+        android:textColor="#FFF"
+        />
+
+</LinearLayout>
