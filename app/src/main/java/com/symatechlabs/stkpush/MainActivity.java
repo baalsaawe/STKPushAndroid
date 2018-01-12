@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
     public ConnectivityManager conMgr;
     public NetworkInfo netInfo;
     int PERMISSION_ALL = 1;
-    private static final String BASE_URL = "http://192.81.213.230/stkpush/sendSTKPush.php";
+    private static final String BASE_URL = "http://localhost/stkpush/sendSTKPush.php";
     private OkHttpClient client = new OkHttpClient();
 
 
